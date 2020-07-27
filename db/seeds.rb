@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+BuildOrder.create([
+    {name: "Scouts", difficulty: "Intermediate", feudal_pop:21, castle_pop:nil, category:"Feudal Rush", icon: ""},
+    ])

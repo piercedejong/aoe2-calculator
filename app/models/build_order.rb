@@ -1,0 +1,2 @@
+class BuildOrder < ApplicationRecord
+end
